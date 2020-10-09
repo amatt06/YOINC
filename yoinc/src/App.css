@@ -1,9 +1,9 @@
 
 .App-background {
-    top: 0px;
-    left: 0px;
+    top: 0;
+    left: 0;
     width: 1920px;
     height: 1080px;
-    background: transparent linear-gradient(180deg, #F1FAEEF7 0%, #A8DADCF7 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(180deg, #F1FAEEF7 0%, #A8DADCF7 100%) 0 0 no-repeat padding-box;
     opacity: 1;
 }
