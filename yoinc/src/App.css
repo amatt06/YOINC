@@ -1,9 +1,36 @@
+h1 {
+    position: absolute;
+    top: 27px;
+    left: 151px;
+    width: 155px;
+    height: 59px;
 
-.App-background {
-    top: 0;
-    left: 0;
-    width: 1920px;
-    height: 1080px;
-    background: transparent linear-gradient(180deg, #F1FAEEF7 0%, #A8DADCF7 100%) 0 0 no-repeat padding-box;
+    font: normal normal bold 50px/59px .AppleSystemUIFont;
+    letter-spacing: 0;
+    color: #E63946;
+    opacity: 1;
+}
+
+h2 {
+    position: absolute;
+    top: 367px;
+    left: 627px;
+    width: 666px;
+    height: 151px;
+
+
+    font: normal normal bold 150px/181px Josefin Sans;
+    letter-spacing: 0;
+    color: #1D3557;
+    opacity: 1;
+}
+
+img {
+    position: absolute;
+    top: 18px;
+    left: 15px;
+    width: 136px;
+    height: 76px;
+
     opacity: 1;
 }
