@@ -54,3 +54,16 @@ button {
     letter-spacing: 0;
     color: #F1FAEEF7;
 }
+
+p1{
+    position: absolute;
+    top: 999px;
+    left: 804px;
+    width: 312px;
+    height: 31px;
+    text-align: center;
+    font: normal normal 300 30px/37px Josefin Sans;
+    letter-spacing: 0;
+    color: #000000;
+    opacity: 1;
+}
