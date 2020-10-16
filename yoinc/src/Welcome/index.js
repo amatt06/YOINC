@@ -2,7 +2,8 @@
 import React, {Component} from 'react';
 import logo from '../assets/Logo.svg';
 import Routes from "../Routes";
-import Upload from "../Upload";
+
+import Upload from "../Upload/Upload";
 
 export default class Welcome extends Component {
     constructor(props) {
@@ -21,7 +22,12 @@ export default class Welcome extends Component {
                 </h1>
                 <button className='welcome-button'>Lets get started</button>
                 <span className='bottom-text'>information about things</span>
-                <Upload />
+                {/*<Routes>*/}
+                {/*    <switch>*/}
+                {/*        <Routes exact path="/" component={Welcome}/>*/}
+                {/*        <Routes exact path="/Upload" component={Upload}/>*/}
+                {/*    </switch>*/}
+                {/*</Routes>*/}
             </div>
         );
     }
