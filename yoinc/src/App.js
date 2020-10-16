@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { withRouter } from 'react-router-dom';
+import React, {Component} from 'react';
+import {withRouter} from 'react-router-dom';
 import './App.css';
 import Routes from './Routes';
 
@@ -10,8 +10,9 @@ class App extends Component {
         this.state = {};
     }
 
-    render(){
+    render() {
         return (<div className='App'><Routes/></div>);
+
     }
 }
 
