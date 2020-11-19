@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 import logo from '../assets/Logo.svg';
 import Routes from "../Routes";
 
-import Upload from "../Upload/Upload";
+import UploadView from "../Upload/UploadView";
 
 export default class Welcome extends Component {
     constructor(props) {
@@ -25,7 +25,7 @@ export default class Welcome extends Component {
                 {/*<Routes>*/}
                 {/*    <switch>*/}
                 {/*        <Routes exact path="/" component={Welcome}/>*/}
-                {/*        <Routes exact path="/Upload" component={Upload}/>*/}
+                {/*        <Routes exact path="/UploadView" component={UploadView}/>*/}
                 {/*    </switch>*/}
                 {/*</Routes>*/}
             </div>
