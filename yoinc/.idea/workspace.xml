@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84f729c9-9f27-4cd5-bafa-e4a78fb731b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Upload/UploadView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Welcome/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Welcome/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -49,9 +51,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/Upload" />
       <recent name="$PROJECT_DIR$/src/images" />
-      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
@@ -69,6 +71,8 @@
       <workItem from="1602636501078" duration="7338000" />
       <workItem from="1602803955699" duration="1425000" />
       <workItem from="1602813918809" duration="4629000" />
+      <workItem from="1605850287102" duration="813000" />
+      <workItem from="1606010140941" duration="2407000" />
     </task>
     <servers />
   </component>
@@ -108,5 +112,9 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="518" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.821@0.23.1440.821" timestamp="1602498551827" />
+    <state x="421" y="185" width="597" height="490" key="find.popup" timestamp="1606014136155">
+      <screen x="0" y="25" width="1440" height="810" />
+    </state>
+    <state x="421" y="185" width="597" height="490" key="find.popup/0.25.1440.810@0.25.1440.810" timestamp="1606014136155" />
   </component>
 </project>

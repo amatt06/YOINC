@@ -4,11 +4,13 @@ import {BrowserRouter as Router} from 'react-router-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Upload from "./Upload";
 
 
 ReactDOM.render(
     <Router>
         <App/>
+        <Upload/>
     </Router>,
     document.getElementById('root')
 );
